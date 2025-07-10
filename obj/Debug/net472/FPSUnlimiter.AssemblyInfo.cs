@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FPSUnlimiter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46f37221ab42fe70484e7ab748aca7be1f65d9aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd025370de3a0c1dae6cfecb1e5916e34da756bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("FPSUnlimiter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FPSUnlimiter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
