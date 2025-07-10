@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "XdEasTnyXRt0ZNuBRKKlcKI/lMtCSRaqXYppum7XChMw9WELE0QkcB+KYag6q2BzgYQUAU9sc4aGztsPyXGScg==",
+  "dgSpecHash": "uCnK66xsxZ5pp5fdKyRHW8r6JMZ8zUGGDqtrXaewXNOQ9h+Xi+AJGOiPUwWDS0aDUEE0Gh50I3FChQTNgA/qMg==",
   "success": true,
   "projectFilePath": "/home/adam/Projects/FPSUnlimiter/FPSUnlimiter.csproj",
   "expectedPackageFiles": [
@@ -11,7 +11,7 @@
     "/home/adam/.nuget/packages/bepinex.plugininfoprops/2.1.0/bepinex.plugininfoprops.2.1.0.nupkg.sha512",
     "/home/adam/.nuget/packages/harmonyx/2.7.0/harmonyx.2.7.0.nupkg.sha512",
     "/home/adam/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.2/microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
-    "/home/adam/.nuget/packages/microsoft.netframework.referenceassemblies.net48/1.0.2/microsoft.netframework.referenceassemblies.net48.1.0.2.nupkg.sha512",
+    "/home/adam/.nuget/packages/microsoft.netframework.referenceassemblies.net472/1.0.2/microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512",
     "/home/adam/.nuget/packages/mono.cecil/0.11.4/mono.cecil.0.11.4.nupkg.sha512",
     "/home/adam/.nuget/packages/monomod.runtimedetour/21.12.13.1/monomod.runtimedetour.21.12.13.1.nupkg.sha512",
     "/home/adam/.nuget/packages/monomod.utils/21.12.13.1/monomod.utils.21.12.13.1.nupkg.sha512",

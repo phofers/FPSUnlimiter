@@ -17,7 +17,7 @@
           "/home/adam/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net482"
+          "net472"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {},
@@ -26,8 +26,8 @@
           "https://nuget.samboy.dev/v3/index.json": {}
         },
         "frameworks": {
-          "net482": {
-            "targetAlias": "net482",
+          "net472": {
+            "targetAlias": "net472",
             "projectReferences": {}
           }
         },
@@ -38,8 +38,8 @@
         }
       },
       "frameworks": {
-        "net482": {
-          "targetAlias": "net482",
+        "net472": {
+          "targetAlias": "net472",
           "dependencies": {
             "AgesOfConflict.GameLibs": {
               "target": "Package",
